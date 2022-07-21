@@ -7,3 +7,7 @@ A Signup app powered by React, Formik, Yup, Bootstrap
   <a src="https://signup.erfjs.com/" target="_blank"><img src="./readme/example.png" width="100%" height="auto" /></a>
 </p>
 
+<p align="center">
+  <a src="https://signup.erfjs.com/" target="_blank"><img src="./readme/lighthouse.png" width="400" height="auto" /></a>
+</p>
+
