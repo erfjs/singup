@@ -10,7 +10,7 @@ function App() {
           <Signup />
         </div>
         <div className="col-md-7 my-auto">
-          <img className="img-fluid w-100" src={signup} alt="signup"/>
+          <img className="img-fluid w-100" src={signup} alt="signup" width={745} height={620}/>
         </div>
       </div>
     </div>
