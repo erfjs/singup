@@ -1,4 +1,4 @@
-# React Todo List
+# React Signup 
 A Signup app powered by React, Formik, Yup, Bootstrap
 
 ##### [Live Demo](https://signup.erfjs.com/) on Netlify
